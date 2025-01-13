@@ -21,11 +21,17 @@ This document provides instructions to run the three microfrontends using `yarn`
 
 Navigate to each microfrontend directory and install the dependencies and start the server using `yarn && yarn start`.
 
+
 ```bash
+# Open a New terminal and enter below command:
 cd client_side_arch_assignment/home && yarn && yarn start
-
+```
+```bash
+# Open a New terminal and enter below command:
 cd client_side_arch_assignment/getPremium && yarn && yarn start
-
+```
+```bash
+# Open a New terminal and enter below command:
 cd client_side_arch_assignment/payPremium && yarn && yarn start
 ```
 
